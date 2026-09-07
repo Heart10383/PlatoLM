@@ -162,3 +162,8 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 outputs/
+backup_before_qwen3/
+outputs/
+models/qwen3-0.6b/*.safetensors
+models/qwen3-0.6b/*.bin
+models/qwen3-0.6b/*.pt
